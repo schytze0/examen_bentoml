@@ -1,5 +1,9 @@
 bentoml
 scikit-learn
 pandas
-joblib
+numpy
+pydantic
+starlette
+pyjwt
+requests
 
